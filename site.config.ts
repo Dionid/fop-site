@@ -44,12 +44,12 @@ export default siteConfig({
   // example:
   //
   pageUrlOverrides: {
-    '/origins/you-dont-know-oop': 'eca471eb866f44f49bdc6d41982a5f40',
-    '/origins/you-have-never-used-oop': 'b67c730b3fab4d5cb272b48f05eee0a9',
-    '/origins/main-problem-of-oop': 'e5a9cbd25bc7435eb34162e0cec440c1',
-    '/origins/why-fp-and-pp-is-not-a-solution':
+    '/you-dont-know-oop': 'eca471eb866f44f49bdc6d41982a5f40',
+    '/you-have-never-used-oop': 'b67c730b3fab4d5cb272b48f05eee0a9',
+    '/main-problem-of-oop': 'e5a9cbd25bc7435eb34162e0cec440c1',
+    '/why-fp-and-pp-is-not-a-solution':
       '01ce5abb272e406496b60c1132c54739',
-    '/origins/fop-birth': '73fadd0dd75a460589726da052c3e8ff',
+    '/fop-birth': '73fadd0dd75a460589726da052c3e8ff',
 
     '/flexibility-is-must': 'cc975187f3c14fba99caa5c807301c4a',
     '/process-first-design': '5148460642b647ae871375cc7a2b5575',
